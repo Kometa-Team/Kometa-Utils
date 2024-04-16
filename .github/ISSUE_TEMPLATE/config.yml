@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord
+    url: https://kometa.wiki/en/latest/discord/
+    about: Please use the Kometa Discord to ask for support.
+  - name: Discussions
+    url: https://github.com/Kometa-Team/Kometa-Utils/discussions
+    about: Please use Discussions to ask for support.
