@@ -3,6 +3,7 @@ from . import util
 from .logging import KometaLogger
 from .args import KometaArgs, Version
 from .exceptions import Continue, Deleted, Failed, FilterFailed, LimitReached, NonExisting, NotScheduled, NotScheduledRange, TimeoutExpired
+from .yaml import YAML
 
 
 try:
@@ -31,4 +32,5 @@ __all__ = [
     "NotScheduled",
     "NotScheduledRange",
     "TimeoutExpired",
+    "YAML",
 ]
