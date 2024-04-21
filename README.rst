@@ -5,12 +5,12 @@ Kometa Utils
     :target: https://github.com/Kometa-Team/Kometa-Utils/releases
     :alt: GitHub release (latest by date)
 
-.. image:: https://img.shields.io/pypi/v/kometa-utils?style=plastic
-    :target: https://pypi.org/project/kometa-utils/
+.. image:: https://img.shields.io/pypi/v/kometautils?style=plastic
+    :target: https://pypi.org/project/kometautils/
     :alt: PyPI
 
-.. image:: https://img.shields.io/pypi/dm/kometa-utils.svg?style=plastic
-    :target: https://pypi.org/project/kometa-utils/
+.. image:: https://img.shields.io/pypi/dm/kometautils.svg?style=plastic
+    :target: https://pypi.org/project/kometautils/
     :alt: Downloads
 
 .. image:: https://img.shields.io/github/commits-since/Kometa-Team/Kometa-Utils/latest?style=plastic
