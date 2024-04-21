@@ -89,9 +89,9 @@ class KometaLogger:
         self.screen_width = 100
         self.separating_character = "="
         self.filename_spacing = 27
-        self.thumbnail_url = "https://github.com/meisnate12/Plex-Meta-Manager/raw/master/docs/_static/favicon.png"
+        self.thumbnail_url = "https://github.com/Kometa-Team/Kometa/raw/master/docs/_static/favicon.png"
         self.bot_name = "Metabot"
-        self.bot_image_url = "https://github.com/meisnate12/Plex-Meta-Manager/raw/master/.github/pmm.png"
+        self.bot_image_url = "https://github.com/Kometa-Team/Kometa/raw/master/.github/logo.png"
         if not self.log_file:
             self.log_file = f"{self.log_name}.log"
         self.log_path = self.log_dir / self.log_file

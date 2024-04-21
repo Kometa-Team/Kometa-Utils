@@ -17,7 +17,7 @@ __package_name__ = "kometautils"
 __project_name__ = "Kometa-Utils"
 __description__ = "Util Methods for Kometa"
 __url__ = "https://github.com/Kometa-Team/Kometa-Utils"
-__email__ = 'meisnate12@gmail.com'
+__email__ = "kometateam@proton.me"
 __license__ = 'MIT License'
 __all__ = [
     "KometaLogger",
